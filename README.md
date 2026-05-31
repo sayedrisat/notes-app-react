@@ -1,3 +1,85 @@
+# Notes App
+
+A modern Notes App built with React and Tailwind CSS.
+
+## Live Demo
+
+🔗 https://sayedrisat.github.io/notes-app-react/
+
+## Features
+
+* Create notes instantly
+* Delete notes
+* Responsive design
+* React State Management (`useState`)
+* Dynamic rendering with `map()`
+* Clean Tailwind CSS UI
+
+## Tech Stack
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+
+## Screenshots
+
+![Notes App Screenshot](./screenshot.png)
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sayedrisat/notes-app-react.git
+```
+
+Navigate to the project:
+
+```bash
+cd notes-app-react
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+## Learning Goals
+
+This project was created to practice:
+
+* React fundamentals
+* useState
+* Two-way binding
+* Form handling
+* Array methods (`map`, `filter`)
+* Component-based UI development
+
+## Future Improvements
+
+* Edit notes
+* Search notes
+* Local Storage persistence
+* Note categories
+* Dark mode
+
+## Author
+
+Sayed Risat
+
+GitHub: https://github.com/sayedrisat
+
+LinkedIn: https://www.linkedin.com/in/sayedrisat/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
